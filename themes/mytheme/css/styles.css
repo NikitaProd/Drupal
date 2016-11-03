@@ -1,0 +1,26 @@
+body {
+}
+
+.head{
+  font-size: 18px;
+  background-color: #999779;
+}
+
+main{
+  background-color: #b3ccff;
+  display: inline;
+}
+
+.test{
+  text-align: center;
+  font-size: 15px;
+  background-color: #999999;
+  color: red;
+}
+
+.top{
+  text-align: center;
+  font-size: 20px;
+  background-color: red;
+  color: yellow;
+}
