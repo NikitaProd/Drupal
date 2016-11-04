@@ -1,7 +1,0 @@
-resume.form:
-  path: '/resume'
-  defaults:
-      _title: 'Application form !'
-      _form: '\Drupal\resume\Form\ResumeForm'
-  requirements:
-      _permission: 'access content'

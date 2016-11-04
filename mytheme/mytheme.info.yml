@@ -1,0 +1,19 @@
+name: My Theme
+description: Thème de base du site My Theme
+core: 8.x
+type: theme
+base theme: classy
+
+regions:
+  header: 'Top Bar'
+  navigation: 'Navigation'
+  breadcrumb: 'Breadcrumb'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+
+libraries:
+  - 'mytheme/styles'
