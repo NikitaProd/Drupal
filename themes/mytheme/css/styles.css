@@ -22,5 +22,21 @@ main{
   text-align: center;
   font-size: 20px;
   background-color: red;
-  color: yellow;
+  color: green;
+}
+
+nav li{
+  display: inline ;
+  margin-right: 1px ;
+  color: #fff ;
+  background: #c00 ;
+  font-size: 14px;
+}
+.layout-sidebar-first{
+  background-color: #66b3ff;
+  float: left;
+  width: 250px;
+  height: 600px;
+  margin: 5px;
+  border: 2px solid #73AD21; 
 }
