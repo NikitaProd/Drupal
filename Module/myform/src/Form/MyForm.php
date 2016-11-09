@@ -5,7 +5,6 @@ namespace Drupal\myform\Form;
 use Drupal\Core\Form\FormBase;
 use Drupal\Core\Form\FormStateInterface;
 
-
 class MyForm extends FormBase {
 
   public function getFormId() {
@@ -38,6 +37,7 @@ class MyForm extends FormBase {
     // Handle submitted form data.
     foreach ($form_state->getValues() as $key => $value) {
       drupal_set_message($key . ': ' . $value);
+      
     }
   }
 }
