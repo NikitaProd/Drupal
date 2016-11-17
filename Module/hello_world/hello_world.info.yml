@@ -2,6 +2,5 @@ name: Hello World
 core: 8.x
 type: module
 
-
 description: 'Hello World'
 package: Drupal test

@@ -1,0 +1,14 @@
+name: Wincache
+type: module
+description: 'High performance integration with wincache.'
+package: 'Performance and scalability'
+# version: VERSION
+# core: 8.x
+
+dependencies:
+  - supercache
+# Information added by Drupal.org packaging script on 2016-10-18
+version: '8.x-1.8'
+core: '8.x'
+project: 'wincachedrupal'
+datestamp: 1476773647
