@@ -19,6 +19,7 @@ regions:
   page_top: 'Page top'
   page_bottom: 'Page bottom'
 
+
 libraries:
   - 'myboot/global-styling'
   - 'myboot/bootstrap-scripts'
