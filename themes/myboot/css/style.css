@@ -55,10 +55,12 @@ template {
   display: none;
 }
 
+
 /* line 89, ../bootstrap/stylesheets/bootstrap/_normalize.scss */
 a {
   background-color: transparent;
 }
+
 
 /* line 98, ../bootstrap/stylesheets/bootstrap/_normalize.scss */
 a:active,
@@ -6971,6 +6973,7 @@ a.list-group-item .list-group-item-heading,
 button.list-group-item .list-group-item-heading {
   color: #333;
 }
+
 /* line 55, ../bootstrap/stylesheets/bootstrap/_list-group.scss */
 a.list-group-item:hover, a.list-group-item:focus,
 button.list-group-item:hover,
