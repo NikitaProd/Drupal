@@ -17,6 +17,8 @@ https://www.drupal.org/docs/8/theming
 
 
 
-##  How to Create Responsive Image Galleries using Juicebox in Drupal 8 
+##   Juicebox module
+
+How to Create Responsive Image Galleries using Juicebox in Drupal 8 
 https://www.webwash.net/how-to-create-responsive-image-galleries-using-juicebox-in-drupal-8/
 
