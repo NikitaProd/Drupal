@@ -15,6 +15,8 @@ The 50 best Drupal themes http://www.creativebloq.com/web-design/drupal-themes-6
 https://www.drupal.org/docs/8/theming
 
 
+
+
 ##  How to Create Responsive Image Galleries using Juicebox in Drupal 8 
 https://www.webwash.net/how-to-create-responsive-image-galleries-using-juicebox-in-drupal-8/
 
