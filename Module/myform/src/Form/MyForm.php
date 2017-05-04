@@ -5,7 +5,6 @@ namespace Drupal\myform\Form;
 use Drupal\Core\Form\FormBase;
 use Drupal\Core\Form\FormStateInterface;
 
-
 class MyForm extends FormBase {
 
   public function getFormId() {
@@ -17,12 +16,12 @@ class MyForm extends FormBase {
 
     $form['form'] = array (
       '#type' => 'radios',
-      '#title' => ('<h1>PHONE</h1><br />'),
+      '#title' => ('<h1>MY MOBILE PHONE</h1><br />'),
     );
 
     $form['date(format)'] = array(
       '#type' => 'date',
-      '#title' => $this->t('Your date'),
+      '#title' => $this->t('My Date'),
     );
 
 
@@ -54,3 +53,4 @@ class MyForm extends FormBase {
     }
   }
 }
+
