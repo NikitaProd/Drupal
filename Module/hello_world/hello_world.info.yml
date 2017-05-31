@@ -1,6 +1,5 @@
 name: Hello World
 core: 8.x
 type: module
-
-description: 'Hello World'
+description: 'Hello World - test module'
 package: Drupal test
